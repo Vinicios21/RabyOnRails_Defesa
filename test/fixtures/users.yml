@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  old: 1
+  telephone: 1
+  gender: MyString
+  birthdays: 2023-09-19 00:32:18
+
+two:
+  name: MyString
+  old: 1
+  telephone: 1
+  gender: MyString
+  birthdays: 2023-09-19 00:32:18
